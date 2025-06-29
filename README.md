@@ -9,6 +9,12 @@ As **VMs Azure** são serviços de computação em nuvem que permitem executar s
 - Ambientes de desenvolvimento/testes.  
 - Processamento de dados.  
 
+##  🛠️ Pré-requisitos
+✅ Conta ativa no Azure (Crie uma gratuitamente aqui)
+✅ Acesso ao Portal Azure (https://portal.azure.com)
+✅ Limite de crédito ou assinatura válida (para evitar cobranças inesperadas)
+
+
 ## 🛠️ Como Criar uma VM no Azure  
 ### Passos Básicos (Portal Azure):  
 1. Acesse o [Portal Azure](https://portal.azure.com).  
@@ -24,6 +30,8 @@ As **VMs Azure** são serviços de computação em nuvem que permitem executar s
 - **Segurança**: Use NSGs (Network Security Groups) para filtrar tráfego.  
 - **Custos**: Desligue VMs não utilizadas ou opte por Spot VMs para economizar.  
 - **Backup**: Configure o Azure Backup para evitar perda de dados.  
+
+Feito com ❤️
 
 ## 📚 Recursos Adicionais  
 - [Documentação Oficial Azure VMs](https://learn.microsoft.com/pt-br/azure/virtual-machines/)  
