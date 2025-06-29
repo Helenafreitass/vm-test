@@ -31,9 +31,10 @@ As **VMs Azure** são serviços de computação em nuvem que permitem executar s
 - **Custos**: Desligue VMs não utilizadas ou opte por Spot VMs para economizar.  
 - **Backup**: Configure o Azure Backup para evitar perda de dados.  
 
-Feito com ❤️
+
 
 ## 📚 Recursos Adicionais  
 - [Documentação Oficial Azure VMs](https://learn.microsoft.com/pt-br/azure/virtual-machines/)  
 - [Calculadora de Custos Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)  
 
+## Feito com ❤️
